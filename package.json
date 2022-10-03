@@ -1,0 +1,15 @@
+{
+  "name": "cypress-iframe",
+  "version": "1.0.0",
+  "description": "take home test",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --browser chrome"
+  },
+  "author": "test user",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
